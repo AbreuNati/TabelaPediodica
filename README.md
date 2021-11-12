@@ -1,1 +1,2 @@
-# TabelaPediodica
+  ✔ TabelaPediodica
+  💻 HTML e CSS;
